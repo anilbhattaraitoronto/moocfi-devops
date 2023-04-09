@@ -1,0 +1,3 @@
+Output of docker ps-a after removing and prunning images and containers
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+REPOSITORY   TAG       IMAGE ID   CREATED   SIZE
