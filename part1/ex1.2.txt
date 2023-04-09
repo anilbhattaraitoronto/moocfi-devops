@@ -1,3 +1,0 @@
-CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
-REPOSITORY   TAG       IMAGE ID       CREATED       SIZE
-nginx        latest    080ed0ed8312   11 days ago   142MB

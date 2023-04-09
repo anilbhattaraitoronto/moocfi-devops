@@ -1,0 +1,5 @@
+Listing output of docker ps -a after creating three containers and stopping two of them
+CONTAINER ID   IMAGE     COMMAND                  CREATED         STATUS                     PORTS     NAMES
+f3aef727cbc1   nginx     "/docker-entrypoint.…"   5 minutes ago   Exited (0) 5 minutes ago             quirky_kirch
+8473ff9789b6   nginx     "/docker-entrypoint.…"   5 minutes ago   Up 5 minutes               80/tcp    heuristic_shamir
+c91012a775bb   nginx     "/docker-entrypoint.…"   6 minutes ago   Exited (0) 4 minutes ago             focused_swanson
